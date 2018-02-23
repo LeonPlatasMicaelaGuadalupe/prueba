@@ -49,6 +49,22 @@
         "description": "Ofrece una visión sobre los textiles oaxaqueños, de México y del mundo. El museo promueve la diversificación de los textiles del en cuanto a diseños, texturas, técnicas y procesos creativos. El objetivo es vincular la tradición y la actualidad, la artesanía y el diseño, al artista rural y urbano", 
         "title": "Museo Textil de Oaxaca"
       }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.064826, 
+          "lon": -96.723996
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/LeonPlatasMicaelaGuadalupe/prueba/master/iglesia.jpg"
+      }, 
+      "id": 4, 
+      "text": {
+        "description": "Iglesia Preciosa Sangre de Cristo en Oaxaca se encuentra a 4 cuadras del Zócalo. La Iglesia Preciosa Sangre de Cristo está cerca del templo de Sto. Domingo.", 
+        "title": "Iglesia Sangre de Cristo"
+      }
     } 
   ], 
   "layer": "pruebacuqc"

@@ -1,0 +1,22 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.075965, 
+          "lon": -96.744780
+        }
+      },
+      "icon":{
+        "url":"https://github.com/LeonPlatasMicaelaGuadalupe/prueba/blob/master/home.png"
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "This is a basic POI"
+      }
+    }
+  ], 
+  "layer": "pruebacuqc"
+}

@@ -9,6 +9,9 @@
           "lon": -96.744780
         }
       }, 
+      "icon": {
+        "url": "https://github.com/LeonPlatasMicaelaGuadalupe/prueba/blob/master/hola.jpg"
+      }, 
       "id": 2, 
       "text": {
         "description": "Description line 1\nDescription line 2\nand Description line 3", 

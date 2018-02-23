@@ -8,10 +8,7 @@
           "lat": 17.075953, 
           "lon": -96.744654
         }
-      }, 
-      "icon": {
-        "url": "https://github.com/LeonPlatasMicaelaGuadalupe/prueba/blob/master/hola.jpg"
-      }, 
+      },  
       "id": 1, 
       "text": {
         "title": "This is a basic POI"

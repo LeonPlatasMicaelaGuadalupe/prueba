@@ -65,7 +65,23 @@
         "description": "Iglesia Preciosa Sangre de Cristo en Oaxaca se encuentra a 4 cuadras del Zócalo. La Iglesia Preciosa Sangre de Cristo está cerca del templo de Sto. Domingo.", 
         "title": "Iglesia Sangre de Cristo"
       }
-    } 
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.067488, 
+          "lon": -96.719673
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/LeonPlatasMicaelaGuadalupe/prueba/master/llano.jpg"
+      }, 
+      "id": 5, 
+      "text": {
+        "description": "Es un parque público del Centro Histórico de la ciudad de Oaxaca, uno de los más antiguos de dicha urbe.", 
+        "title": "Llano"
+      }
+    }, 
   ], 
   "layer": "pruebacuqc"
 }

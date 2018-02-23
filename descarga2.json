@@ -81,6 +81,22 @@
         "description": "Es un parque público del Centro Histórico de la ciudad de Oaxaca, uno de los más antiguos de dicha urbe.", 
         "title": "Llano"
       }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.066391, 
+          "lon": -96.723694
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/LeonPlatasMicaelaGuadalupe/prueba/master/iago.jpg"
+      }, 
+      "id": 6, 
+      "text": {
+        "description": " es una institución que aloja una de las colecciones de artes gráficas más importantes de Latinoamérica. También un centro cultural con una Biblioteca (BIAGO) especializada en arte, Cineclub (El Pochote), Centro Fotográfico ("Manuel Álvarez Bravo"), Fonoteca (Fonoteca Eduardo Mata) y Galerías.", 
+        "title": "IAGO"
+      }
     }
   ], 
   "layer": "pruebacuqc"

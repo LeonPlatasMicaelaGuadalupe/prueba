@@ -5,18 +5,6 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.075953, 
-          "lon": -96.744654
-        }
-      },  
-      "id": 1, 
-      "text": {
-        "title": "This is a basic POI"
-      }
-    }, 
-    {
-      "anchor": {
-        "geolocation": {
           "lat": 17.075965, 
           "lon": -96.744780
         }
